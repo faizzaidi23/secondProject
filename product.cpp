@@ -15,4 +15,5 @@ int main(){
     }
     cout<<"The product of the elements in the given array is:"<<product;
     return 0;
+    //in this way we can find out the product of the elements of the given array
 }
